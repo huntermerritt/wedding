@@ -55,17 +55,21 @@
                               <a href="/" class="nav-link">HOME</a>
                           </li>
                           <li class="nav-item">
-                              <a href="/" class="nav-link">RSVP</a>
+                              <a href="/rsvp" class="nav-link">RSVP</a>
                           </li>
                           <li class="nav-item">
-                              <a href="/" class="nav-link">THE LOCATION</a>
+                              <a href="/registry" class="nav-link">REGISTRY</a>
                           </li>
                           <li class="nav-item">
-                              <a href="/" class="nav-link">THE COUPLE</a>
+                              <a href="/couple" class="nav-link">THE COUPLE</a>
                           </li>
                           <li class="nav-item">
-                              <a href="https://pcpartpicker.com/list/nQzk7W" class="nav-link">REGISTRY</a>
+                              <a href="/schedule" class="nav-link">SCHEDULE</a>
                           </li>
+                          <li class="nav-item">
+                              <a href="/accommodations" class="nav-link">ACCOMMODATIONS</a>
+                          </li>
+                          
                       </ul>
                   </div>
               </div>

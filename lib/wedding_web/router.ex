@@ -17,6 +17,11 @@ defmodule WeddingWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/couple", PageController, :couple
+    get "/registry", PageController, :registry
+    get "/rsvp", PageController, :rsvp
+    get "/schedule", PageController, :schedule
+    get "/accommodations", PageController, :accommodations
   end
 
   # Other scopes may use custom stacks.

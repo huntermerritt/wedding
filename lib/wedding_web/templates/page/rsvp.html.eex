@@ -1,0 +1,21 @@
+<div class="row">
+
+    <div class="col-12" style="height: 5vh;"></div>
+
+        <div class="col-6">
+            <img src="https://drive.google.com/uc?id=1u51-qW0AYwhsLxIRvutWbjvWW1XT1RJj" style="max-width: 100%;">
+        </div>
+
+        <div class="col-6">
+            <h3 class="regular" style="text-align: center;">RSVP</h3>
+            <hr>
+            <div class="regular">
+            <p style="">We would love it if you can come! But either way we would love to know! Please fill out our electronic
+                form or email Hannah (hannahricks6@gmail.com)! Looking forward to hearing back from you.<br><br>Best,<br>Hunter & Hannah</p>
+            </div>
+            <a href="https://goo.gl/forms/VRJFzz9BRS76zMI63" class="btn btn-dark">RSVP</a>
+        </div>
+
+
+
+</div>
